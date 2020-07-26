@@ -14,5 +14,7 @@ int main()
 	cout << "-------------------------------------------------------" << endl;
 	cout << "# This Project is to Explore the CRC check of a image #" << endl;
 	cout << "-------------------------------------------------------" << endl;
+	cout << "Starts from here" << endl;
+	cout << "Start Program" << endl;
 	return 0;
 }
