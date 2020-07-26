@@ -3,7 +3,7 @@
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : This Project is to Explore the CRC check of a image in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
@@ -11,6 +11,9 @@
 
 int main() {
 	std::cout << "!!!Hello World!!!" << std::endl; // prints !!!Hello World!!!
-	std::cout << "This Project is for exploring the CRC check using C++" << std::endl;
+	cout << "-------------------------------------------------------" << endl;
+	cout << "# This Project is to Explore the CRC check of a image #" << endl;
+	cout << "-------------------------------------------------------" << endl;
+
 	return 0;
 }
