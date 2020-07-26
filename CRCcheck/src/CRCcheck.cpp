@@ -7,9 +7,10 @@
 //============================================================================
 
 #include <iostream>
-using namespace std;
+//using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	std::cout << "!!!Hello World!!!" << std::endl; // prints !!!Hello World!!!
+	std::cout << "This Project is for exploring the CRC check using C++" << std::endl;
 	return 0;
 }
